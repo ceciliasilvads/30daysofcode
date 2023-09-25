@@ -19,9 +19,9 @@ for letter in 'cecilia':
 
 
 #While
-count = 4
-while (count < 3 or count > 3):
-    count = count + 1
-    print("Diferente de 3")
+count = 0
+while (count < 3):
+    print(count, "é menor que 3")
+    count = count + 1    
 else:
-    print("3")
+    print(count, "é igual a 3")
