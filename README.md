@@ -1,8 +1,8 @@
 # **100 days of code - Python**
 
 **Dia 1-7:** Fundamentos de Python
-- [ ] Dia 1-2: Instale o Python e um ambiente de desenvolvimento (como o Anaconda ou Jupyter Notebook).
-- [ ] Dia 1-2: Variáveis, tipos de dados e operadores,Estruturas condicionais (if, else, elif) e Loops (for e while), Listas, tuplas, conjuntos e dicionários em Python.
+- [X] Dia 1-2: Instale o Python e um ambiente de desenvolvimento (como o Anaconda ou Jupyter Notebook).
+- [X] Dia 1-2: Variáveis, tipos de dados e operadores,Estruturas condicionais (if, else, elif) e Loops (for e while), Listas, tuplas, conjuntos e dicionários em Python.
 - [ ] Dia 3-4: Funções e Módulos
 - [ ] Dia 3-4: Escreva suas primeiras funções em Python.
 - [ ] Dia 5: Parâmetros de função e retorno de valores.
