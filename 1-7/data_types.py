@@ -38,3 +38,9 @@ print('Idades -', type(idades))
 idade_amigos = {'Lara': 20, 'Silvania': 20, 'Luis': 22}
 
 print("Idade de Amigos -", type(idade_amigos))
+#Set
+numeros = [1, 2, 2, 3, 3, 3]
+numeros_distintos = set(numeros)
+
+print("Números: ", numeros)
+print("Números distintos: ", numeros_distintos)
