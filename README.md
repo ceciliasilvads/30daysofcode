@@ -3,10 +3,8 @@
 **Dia 1-7:** Fundamentos de Python
 - [X] Dia 1-2: Instale o Python e um ambiente de desenvolvimento (como o Anaconda ou Jupyter Notebook).
 - [X] Dia 1-2: Variáveis, tipos de dados e operadores,Estruturas condicionais (if, else, elif) e Loops (for e while), Listas, tuplas, conjuntos e dicionários em Python.
-- [X] Dia 3-4: Funções e Módulos
-- [ ] Dia 3-4: Escreva suas primeiras funções em Python.
-- [ ] Dia 5: Parâmetros de função e retorno de valores.
-- [ ] Dia 6-7: Trabalhe com módulos e bibliotecas padrão.
+- [X] Dia 3-4: Funções
+- [ ] Dia 5: Trabalhe com módulos e bibliotecas padrão.
 - [ ] Dia 6-7: Crie um pequeno projeto usando funções e módulos.
 
 **Dia 8-14:** Introdução à programação orientada a objetos (POO).
