@@ -5,7 +5,7 @@
 - [X] Dia 1-2: Variáveis, tipos de dados e operadores,Estruturas condicionais (if, else, elif) e Loops (for e while), Listas, tuplas, conjuntos e dicionários em Python.
 - [X] Dia 3-4: Funções
 - [X] Dia 5: Trabalhe com módulos e bibliotecas padrão.
-- [ ] Dia 6-7: Crie um pequeno projeto usando funções e módulos.
+- [X] Dia 6-7: Aplicar conhecimentos da semana.
 
 **Dia 8-14:** Introdução à programação orientada a objetos (POO).
 - [ ] Dia 8: Orientação a Objetos em Python
