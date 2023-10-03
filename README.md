@@ -8,8 +8,8 @@
 - [X] Dia 6-7: Aplicar conhecimentos da semana.
 
 **Dia 8-14:** Introdução à programação orientada a objetos (POO).
-- [ ] Dia 8: Orientação a Objetos em Python
-- [ ] Dia 9-10: Classes, objetos e métodos.
+- [X] Dia 8: Paradigmas de Programação
+- [X] Dia 9-10: Classes, objetos e métodos.
 - [ ] Dia 11-12: Herança e polimorfismo.
 - [ ] Dia 13-14: Crie um pequeno projeto orientado a objetos.
 
