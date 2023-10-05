@@ -8,7 +8,6 @@ def addItem(user):
     
     item['name'] = user.user_name
     item['email'] = user.email
-    item['email'] = user.email
     item['password'] = user.password
     
     if path.isfile(filename) is False:
