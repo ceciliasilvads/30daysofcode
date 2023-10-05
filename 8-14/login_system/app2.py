@@ -6,13 +6,17 @@ system = System()
 def register():
     print('----------------------- CADASTRO -----------------------')
     nome = input('Digite seu nome de usuário: ')
+    email = input('Digite seu email: ')
     senha = input('Digite sua senha: ')
 
-    isRegisteredSussesfully = system.register(nome, senha)
+    isRegisteredSussesfully = system.register(nome, email, senha)
 
     if isRegisteredSussesfully:
         os.system('cls')
-    else: print('O cadastro falhou!')
+    else: 
+        os.system('cls')
+        print('A senha deve conter no mínimo 8 caracteres! Tente novamente...')
+        register()
 
 def login():
     print('------------------------ LOGIN -------------------------')
@@ -27,7 +31,6 @@ def login():
 def sistema_app():
     register()
     login()
-
 
 if __name__ == '__main__':
     sistema_app()
