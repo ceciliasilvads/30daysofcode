@@ -24,3 +24,4 @@ class Person:
   
   def greeting(self):
     print(f'Olá meu nome é {self.name}! Tenho {self.age} anos e minha profissão é {self.profession}.')
+

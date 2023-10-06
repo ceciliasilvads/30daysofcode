@@ -1,4 +1,4 @@
-from User import System
+from System import System
 import os
 
 system = System()
