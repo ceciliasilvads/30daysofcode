@@ -11,7 +11,7 @@
 - [X] Dia 8: Paradigmas de Programação
 - [X] Dia 9-10: Classes, objetos e métodos.
 - [X] Dia 11-12: Herança e polimorfismo.
-- [ ] Dia 13-14: Crie um pequeno projeto orientado a objetos.
+- [X] Dia 13-14: Crie um pequeno projeto orientado a objetos.
 
 **Dia 15-20:**: Manipulação de Arquivos e Exceções
 - [ ] Dia 15-20: Trabalhe com arquivos (leitura e escrita).
