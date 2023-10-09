@@ -13,8 +13,8 @@
 - [X] Dia 11-12: Herança e polimorfismo.
 - [X] Dia 13-14: Crie um pequeno projeto orientado a objetos.
 
-**Dia 15-20:**: Manipulação de Arquivos e Exceções
-- [ ] Dia 15-20: Trabalhe com arquivos (leitura e escrita).
+**Dia 15-20:** Manipulação de Arquivos e Exceções
+- [X] Dia 15-20: Trabalhe com arquivos (leitura e escrita).
 - [ ] Dia 15-20: Manipule exceções e erros em Python.
 - [ ] Dia 15-20: Desenvolva um programa que lida com arquivos e exceções.
 
