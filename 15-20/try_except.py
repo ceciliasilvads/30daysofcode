@@ -3,3 +3,5 @@ try:
         f.write('My programmatically created file!')
 except FileNotFoundError:
     print('The file does not exist')
+else:
+    print('Sucess')
