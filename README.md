@@ -15,8 +15,8 @@
 
 **Dia 15-20:** Manipulação de Arquivos e Exceções
 - [X] Dia 15-20: Trabalhe com arquivos (leitura e escrita).
-- [ ] Dia 15-20: Manipule exceções e erros em Python.
-- [ ] Dia 15-20: Desenvolva um programa que lida com arquivos e exceções.
+- [X] Dia 15-20: Manipule exceções e erros em Python.
+- [X] Dia 15-20: Desenvolva um programa que lida com arquivos e exceções.
 
 **Dia 21-30:** Bancos de Dados e SQL em Python
 - [ ] Dia 21: Introdução a bancos de dados relacionais.
