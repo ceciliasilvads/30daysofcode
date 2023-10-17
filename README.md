@@ -19,7 +19,7 @@
 - [X] Dia 15-20: Desenvolva um programa que lida com arquivos e exceções.
 
 **Dia 21-30:** Bancos de Dados e SQL em Python
-- [ ] Dia 21: Introdução a bancos de dados relacionais.
+- [X] Dia 21: Introdução a bancos de dados relacionais.
 - [ ] Dia 22-23: SQL básico para consulta de dados.
 - [ ] Dia 24-25: Interagindo com bancos de dados SQL em Python (usando SQLAlchemy).
 - [ ] Dia 26-30: Simples ETL (Extração, Transformação e Carga) com Python e bancos de dados.
