@@ -19,7 +19,7 @@ Manipulação de Arquivos e Exceções
 - [X] Desenvolva um programa que lida com arquivos e exceções.
 
 Bancos de Dados e SQL em Python
-- [ ] Interagindo com bancos de dados SQL em Python (usando Pyodbc e SQLAlchemy).
+- [X] Interagindo com bancos de dados SQL em Python (usando Pyodbc e SQLAlchemy).
 - [ ] Simples ETL (Extração, Transformação e Carga) com Python e bancos de dados.
 
 Processamento de Dados com Pandas e NumPy
