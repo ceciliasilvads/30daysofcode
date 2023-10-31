@@ -23,10 +23,10 @@ Bancos de Dados e SQL em Python
 - [ ] Simples ETL (Extração, Transformação e Carga) com Python e bancos de dados.
 
 Processamento de Dados com Pandas e NumPy
-- [ ] Manipulação avançada de dados com Pandas (agregação, join).
-- [ ] Introdução a NumPy para computação científica em Python.
-- [ ] Trabalhar com datas e horas em Python.
-- [ ] Projeto de análise de dados com Pandas e NumPy.
+- [X] Manipulação avançada de dados com Pandas (agregação, join).
+- [X] Introdução a NumPy para computação científica em Python.
+- [X] Trabalhar com datas e horas em Python.
+- [X] Projeto de análise de dados com Pandas e NumPy.
       
 Introdução ao Spark
 - [ ] Configurar o ambiente Spark em Python (usando PySpark).
