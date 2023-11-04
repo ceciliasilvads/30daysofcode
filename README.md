@@ -20,7 +20,7 @@ Manipulação de Arquivos e Exceções
 
 Bancos de Dados e SQL em Python
 - [X] Interagindo com bancos de dados SQL em Python (usando Pyodbc e SQLAlchemy).
-- [ ] Simples ETL (Extração, Transformação e Carga) com Python e bancos de dados.
+- [X] Simples ETL (Extração, Transformação e Carga) com Python e bancos de dados.
 
 Processamento de Dados com Pandas e NumPy
 - [X] Manipulação avançada de dados com Pandas (agregação, join).
