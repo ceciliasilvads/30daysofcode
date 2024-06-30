@@ -1,4 +1,4 @@
-# **100 days of code - Python**
+# **30 days of code - Python**
 
  Fundamentos de Python
 - [X] Instale o Python e um ambiente de desenvolvimento (como o Anaconda ou Jupyter Notebook).
@@ -27,33 +27,3 @@ Processamento de Dados com Pandas e NumPy
 - [X] Introdução a NumPy para computação científica em Python.
 - [X] Trabalhar com datas e horas em Python.
 - [X] Projeto de análise de dados com Pandas e NumPy.
-      
-Introdução ao Spark
-- [ ] Configurar o ambiente Spark em Python (usando PySpark).
-- [ ] Spark RDDs (Resilient Distributed Datasets) e transformações básicas.
-- [ ] Spark DataFrames e SQL para análise de dados em larga escala.
-- [ ] Projeto de processamento de dados em larga escala com Spark.
-
-Streaming de Dados com Spark
-- [ ] Introdução ao streaming de dados com Spark.
-- [ ] Processamento de streaming em tempo real com Spark Streaming.
-- [ ] Projeto de processamento de streaming de dados em tempo real.
-
-Armazenamento de Dados e Integração com Bancos NoSQL
-- [ ] Armazenamento de dados em armazenamentos em nuvem (por exemplo, AWS S3).
-- [ ] Introdução a bancos de dados NoSQL (por exemplo, MongoDB) com Python.
-- [ ] Integração de dados entre SQL e NoSQL em um projeto.
-
-Orquestração de Fluxo de Dados com Apache Airflow
-- [ ] Introdução ao Apache Airflow para orquestração de tarefas.
-- [ ] Definir e agendar fluxos de trabalho com Apache Airflow.
-- [ ] Projeto de orquestração de ETL com Apache Airflow.
-
-Machine Learning para Engenharia de Dados em Python
-- [ ] Introdução ao Machine Learning com Python.
-- [ ] Pré-processamento de dados para ML com Pandas e Scikit-Learn.
-- [ ] Implementação de modelos de Machine Learning para análise de dados.
-
- Projeto Final de Engenharia de Dados em Python
-- [ ] Escolha um projeto final que envolva coleta, processamento e análise de dados em Python.
-- [ ] Desenvolva e finalize seu projeto, documentando-o bem e apresentando seus resultados.
